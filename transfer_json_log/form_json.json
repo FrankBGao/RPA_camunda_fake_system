@@ -1,0 +1,222 @@
+[
+	{
+
+		"Form": {
+			"Specialist": null,
+			"Age": null,
+			"Name": null
+		},
+		"TimeStamp": "24/10/2018 13:17:59",
+		resource
+	},
+	{
+		"Event_type": "End",
+		"WholeActivityName": "End|Staff Register",
+		"ProcessName": "1",
+		"ActivityName": "Staff Register",
+		"Form": {
+			"Specialist": true,
+			"Age": 22,
+			"Name": "qwe"
+		},
+		"ActivityID": "Task_1gar7of",
+		"ProcessInstanceId": "7707c860-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:18:10"
+	},
+	{
+		"Event_type": "Start",
+		"WholeActivityName": "Start|Specialist Register",
+		"ProcessName": "1",
+		"ActivityName": "Specialist Register",
+		"Form": {
+			"Speak Language": null,
+			"Coding Language": null,
+			"Skill": null,
+			"Name": "qwe"
+		},
+		"ActivityID": "Task_0xo8i3w",
+		"ProcessInstanceId": "7707c860-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:18:10"
+	},
+	{
+		"Event_type": "Start",
+		"WholeActivityName": "Start|Staff Register",
+		"ProcessName": "2",
+		"ActivityName": "Staff Register",
+		"Form": {
+			"Specialist": null,
+			"Age": null,
+			"Name": null
+		},
+		"ActivityID": "Task_0xmlqjf",
+		"ProcessInstanceId": "8004cef9-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:18:14"
+	},
+	{
+		"Event_type": "End",
+		"WholeActivityName": "End|Staff Register",
+		"ProcessName": "2",
+		"ActivityName": "Staff Register",
+		"Form": {
+			"Specialist": false,
+			"Age": 33,
+			"Name": "asd"
+		},
+		"ActivityID": "Task_1gar7of",
+		"ProcessInstanceId": "8004cef9-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:18:27"
+	},
+	{
+		"Event_type": "Start",
+		"WholeActivityName": "Start|Information Collection",
+		"ProcessName": "2",
+		"ActivityName": "Information Collection",
+		"Form": {
+			"Working Experience": null,
+			"Name": "asd"
+		},
+		"ActivityID": "ServiceTask_1",
+		"ProcessInstanceId": "8004cef9-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:18:27"
+	},
+	{
+		"Event_type": "Start",
+		"WholeActivityName": "Start|Staff Register",
+		"ProcessName": "3",
+		"ActivityName": "Staff Register",
+		"Form": {
+			"Specialist": null,
+			"Age": null,
+			"Name": null
+		},
+		"ActivityID": "Task_0xmlqjf",
+		"ProcessInstanceId": "8afc4601-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:18:33"
+	},
+	{
+		"Event_type": "End",
+		"WholeActivityName": "End|Specialist Register",
+		"ProcessName": "1",
+		"ActivityName": "Specialist Register",
+		"Form": {
+			"Speak Language": "English",
+			"Coding Language": "C",
+			"Skill": "Artificial Intelligence",
+			"Name": "qwe"
+		},
+		"ActivityID": "Task_1stnk0y",
+		"ProcessInstanceId": "7707c860-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:18:39"
+	},
+	{
+		"Event_type": "End",
+		"WholeActivityName": "End|Information Collection",
+		"ProcessName": "2",
+		"ActivityName": "Information Collection",
+		"Form": {
+			"Working Experience": true,
+			"Name": "asd"
+		},
+		"ActivityID": "ServiceTask_3",
+		"ProcessInstanceId": "8004cef9-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:18:43"
+	},
+	{
+		"Event_type": "End",
+		"WholeActivityName": "End|Staff Register",
+		"ProcessName": "3",
+		"ActivityName": "Staff Register",
+		"Form": {
+			"Specialist": true,
+			"Age": 45,
+			"Name": "zxc"
+		},
+		"ActivityID": "Task_1gar7of",
+		"ProcessInstanceId": "8afc4601-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:18:55"
+	},
+	{
+		"Event_type": "Start",
+		"WholeActivityName": "Start|Specialist Register",
+		"ProcessName": "3",
+		"ActivityName": "Specialist Register",
+		"Form": {
+			"Speak Language": null,
+			"Coding Language": null,
+			"Skill": null,
+			"Name": "zxc"
+		},
+		"ActivityID": "Task_0xo8i3w",
+		"ProcessInstanceId": "8afc4601-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:18:55"
+	},
+	{
+		"Event_type": "Start",
+		"WholeActivityName": "Start|Staff Register",
+		"ProcessName": "4",
+		"ActivityName": "Staff Register",
+		"Form": {
+			"Specialist": null,
+			"Age": null,
+			"Name": null
+		},
+		"ActivityID": "Task_0xmlqjf",
+		"ProcessInstanceId": "9c782285-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:19:02"
+	},
+	{
+		"Event_type": "End",
+		"WholeActivityName": "End|Staff Register",
+		"ProcessName": "4",
+		"ActivityName": "Staff Register",
+		"Form": {
+			"Specialist": false,
+			"Age": 33,
+			"Name": "rty"
+		},
+		"ActivityID": "Task_1gar7of",
+		"ProcessInstanceId": "9c782285-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:19:11"
+	},
+	{
+		"Event_type": "Start",
+		"WholeActivityName": "Start|Information Collection",
+		"ProcessName": "4",
+		"ActivityName": "Information Collection",
+		"Form": {
+			"Working Experience": null,
+			"Name": "rty"
+		},
+		"ActivityID": "ServiceTask_1",
+		"ProcessInstanceId": "9c782285-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:19:11"
+	},
+	{
+		"Event_type": "End",
+		"WholeActivityName": "End|Information Collection",
+		"ProcessName": "4",
+		"ActivityName": "Information Collection",
+		"Form": {
+			"Working Experience": true,
+			"Name": "rty"
+		},
+		"ActivityID": "ServiceTask_3",
+		"ProcessInstanceId": "9c782285-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:19:17"
+	},
+	{
+		"Event_type": "End",
+		"WholeActivityName": "End|Specialist Register",
+		"ProcessName": "3",
+		"ActivityName": "Specialist Register",
+		"Form": {
+			"Speak Language": "German",
+			"Coding Language": "C",
+			"Skill": "Database",
+			"Name": "zxc"
+		},
+		"ActivityID": "Task_1stnk0y",
+		"ProcessInstanceId": "8afc4601-d77e-11e8-8da3-144f8adabd21",
+		"TimeStamp": "24/10/2018 13:19:28"
+	}
+]

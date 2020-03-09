@@ -1,0 +1,5 @@
+Activity,Costs,Resource,case:concept:name,case:creator,concept:name,org:resource,time:timestamp
+register request,50,Pete,003,Fluxicon Nitro,register request,Pete,2010-12-30 14:32:00+01:00
+examine casually,400,Mike,03,Fluxicon Nitro,examine casually,Mike,2010-12-30 15:06:00+01:00
+check ticket,100,Ellen,0003,Fluxicon Nitro,check ticket,Ellen,2010-12-30 16:34:00+01:00
+decide,200,Sara,00003,Fluxicon Nitro,decide,Sara,2011-01-06 09:18:00+01:00

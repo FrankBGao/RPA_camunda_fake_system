@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<log>
+  <string key="origin" value="json"/>
+  <trace>
+    <string key="concept:name" value="7707c860-d77e-11e8-8da3-144f8adabd21"/>
+    <event>
+      <string key="ProcessName" value="1"/>
+      <string key="ActivityName" value="Staff Register"/>
+      <list key="Form" value="{'Specialist': None, 'Age': None, 'Name': None}"/>
+      <string key="ActivityID" value="Task_0xmlqjf"/>
+      <string key="concept:name" value="Start|Staff Register"/>
+      <string key="time:timestamp" value="2018-10-24 13:17:59"/>
+      <string key="lifecycle:transition" value="start"/>
+      <int key="@@traceindex" value="1"/>
+    </event>
+    <event>
+      <string key="ProcessName" value="1"/>
+      <string key="ActivityName" value="Staff Register"/>
+      <list key="Form" value="{'Specialist': True, 'Age': 22, 'Name': 'qwe'}"/>
+      <string key="ActivityID" value="Task_1gar7of"/>
+      <string key="concept:name" value="End|Staff Register"/>
+      <string key="time:timestamp" value="2018-10-24 13:18:10"/>
+      <string key="lifecycle:transition" value="complete"/>
+      <int key="@@traceindex" value="1"/>
+    </event>
+    <event>
+      <string key="ProcessName" value="1"/>
+      <string key="ActivityName" value="Specialist Register"/>
+      <list key="Form" value="{'Speak Language': None, 'Coding Language': None, 'Skill': None, 'Name': 'qwe'}"/>
+      <string key="ActivityID" value="Task_0xo8i3w"/>
+      <string key="concept:name" value="Start|Specialist Register"/>
+      <string key="time:timestamp" value="2018-10-24 13:18:10"/>
+      <string key="lifecycle:transition" value="start"/>
+      <int key="@@traceindex" value="1"/>
+    </event>
+    <event>
+      <string key="ProcessName" value="1"/>
+      <string key="ActivityName" value="Specialist Register"/>
+      <list key="Form" value="{'Speak Language': 'English', 'Coding Language': 'C', 'Skill': 'Artificial Intelligence', 'Name': 'qwe'}"/>
+      <string key="ActivityID" value="Task_1stnk0y"/>
+      <string key="concept:name" value="End|Specialist Register"/>
+      <string key="time:timestamp" value="2018-10-24 13:18:39"/>
+      <string key="lifecycle:transition" value="complete"/>
+      <int key="@@traceindex" value="1"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="8004cef9-d77e-11e8-8da3-144f8adabd21"/>
+    <event>
+      <string key="ProcessName" value="2"/>
+      <string key="ActivityName" value="Staff Register"/>
+      <list key="Form" value="{'Specialist': None, 'Age': None, 'Name': None}"/>
+      <string key="ActivityID" value="Task_0xmlqjf"/>
+      <string key="concept:name" value="Start|Staff Register"/>
+      <string key="time:timestamp" value="2018-10-24 13:18:14"/>
+      <string key="lifecycle:transition" value="start"/>
+      <int key="@@traceindex" value="2"/>
+    </event>
+    <event>
+      <string key="ProcessName" value="2"/>
+      <string key="ActivityName" value="Staff Register"/>
+      <list key="Form" value="{'Specialist': False, 'Age': 33, 'Name': 'asd'}"/>
+      <string key="ActivityID" value="Task_1gar7of"/>
+      <string key="concept:name" value="End|Staff Register"/>
+      <string key="time:timestamp" value="2018-10-24 13:18:27"/>
+      <string key="lifecycle:transition" value="complete"/>
+      <int key="@@traceindex" value="2"/>
+    </event>
+    <event>
+      <string key="ProcessName" value="2"/>
+      <string key="ActivityName" value="Information Collection"/>
+      <list key="Form" value="{'Working Experience': None, 'Name': 'asd'}"/>
+      <string key="ActivityID" value="ServiceTask_1"/>
+      <string key="concept:name" value="Start|Information Collection"/>
+      <string key="time:timestamp" value="2018-10-24 13:18:27"/>
+      <string key="lifecycle:transition" value="start"/>
+      <int key="@@traceindex" value="2"/>
+    </event>
+    <event>
+      <string key="ProcessName" value="2"/>
+      <string key="ActivityName" value="Information Collection"/>
+      <list key="Form" value="{'Working Experience': True, 'Name': 'asd'}"/>
+      <string key="ActivityID" value="ServiceTask_3"/>
+      <string key="concept:name" value="End|Information Collection"/>
+      <string key="time:timestamp" value="2018-10-24 13:18:43"/>
+      <string key="lifecycle:transition" value="complete"/>
+      <int key="@@traceindex" value="2"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="8afc4601-d77e-11e8-8da3-144f8adabd21"/>
+    <event>
+      <string key="ProcessName" value="3"/>
+      <string key="ActivityName" value="Staff Register"/>
+      <list key="Form" value="{'Specialist': None, 'Age': None, 'Name': None}"/>
+      <string key="ActivityID" value="Task_0xmlqjf"/>
+      <string key="concept:name" value="Start|Staff Register"/>
+      <string key="time:timestamp" value="2018-10-24 13:18:33"/>
+      <string key="lifecycle:transition" value="start"/>
+      <int key="@@traceindex" value="3"/>
+    </event>
+    <event>
+      <string key="ProcessName" value="3"/>
+      <string key="ActivityName" value="Staff Register"/>
+      <list key="Form" value="{'Specialist': True, 'Age': 45, 'Name': 'zxc'}"/>
+      <string key="ActivityID" value="Task_1gar7of"/>
+      <string key="concept:name" value="End|Staff Register"/>
+      <string key="time:timestamp" value="2018-10-24 13:18:55"/>
+      <string key="lifecycle:transition" value="complete"/>
+      <int key="@@traceindex" value="3"/>
+    </event>
+    <event>
+      <string key="ProcessName" value="3"/>
+      <string key="ActivityName" value="Specialist Register"/>
+      <list key="Form" value="{'Speak Language': None, 'Coding Language': None, 'Skill': None, 'Name': 'zxc'}"/>
+      <string key="ActivityID" value="Task_0xo8i3w"/>
+      <string key="concept:name" value="Start|Specialist Register"/>
+      <string key="time:timestamp" value="2018-10-24 13:18:55"/>
+      <string key="lifecycle:transition" value="start"/>
+      <int key="@@traceindex" value="3"/>
+    </event>
+    <event>
+      <string key="ProcessName" value="3"/>
+      <string key="ActivityName" value="Specialist Register"/>
+      <list key="Form" value="{'Speak Language': 'German', 'Coding Language': 'C', 'Skill': 'Database', 'Name': 'zxc'}"/>
+      <string key="ActivityID" value="Task_1stnk0y"/>
+      <string key="concept:name" value="End|Specialist Register"/>
+      <string key="time:timestamp" value="2018-10-24 13:19:28"/>
+      <string key="lifecycle:transition" value="complete"/>
+      <int key="@@traceindex" value="3"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="9c782285-d77e-11e8-8da3-144f8adabd21"/>
+    <event>
+      <string key="ProcessName" value="4"/>
+      <string key="ActivityName" value="Staff Register"/>
+      <list key="Form" value="{'Specialist': None, 'Age': None, 'Name': None}"/>
+      <string key="ActivityID" value="Task_0xmlqjf"/>
+      <string key="concept:name" value="Start|Staff Register"/>
+      <string key="time:timestamp" value="2018-10-24 13:19:02"/>
+      <string key="lifecycle:transition" value="start"/>
+      <int key="@@traceindex" value="4"/>
+    </event>
+    <event>
+      <string key="ProcessName" value="4"/>
+      <string key="ActivityName" value="Staff Register"/>
+      <list key="Form" value="{'Specialist': False, 'Age': 33, 'Name': 'rty'}"/>
+      <string key="ActivityID" value="Task_1gar7of"/>
+      <string key="concept:name" value="End|Staff Register"/>
+      <string key="time:timestamp" value="2018-10-24 13:19:11"/>
+      <string key="lifecycle:transition" value="complete"/>
+      <int key="@@traceindex" value="4"/>
+    </event>
+    <event>
+      <string key="ProcessName" value="4"/>
+      <string key="ActivityName" value="Information Collection"/>
+      <list key="Form" value="{'Working Experience': None, 'Name': 'rty'}"/>
+      <string key="ActivityID" value="ServiceTask_1"/>
+      <string key="concept:name" value="Start|Information Collection"/>
+      <string key="time:timestamp" value="2018-10-24 13:19:11"/>
+      <string key="lifecycle:transition" value="start"/>
+      <int key="@@traceindex" value="4"/>
+    </event>
+    <event>
+      <string key="ProcessName" value="4"/>
+      <string key="ActivityName" value="Information Collection"/>
+      <list key="Form" value="{'Working Experience': True, 'Name': 'rty'}"/>
+      <string key="ActivityID" value="ServiceTask_3"/>
+      <string key="concept:name" value="End|Information Collection"/>
+      <string key="time:timestamp" value="2018-10-24 13:19:17"/>
+      <string key="lifecycle:transition" value="complete"/>
+      <int key="@@traceindex" value="4"/>
+    </event>
+  </trace>
+</log>

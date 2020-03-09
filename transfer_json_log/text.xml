@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<log>
+  <string key="origin" value="csv"/>
+  <trace>
+    <int key="concept:name" value="1"/>
+    <string key="creator" value="Fluxicon Nitro"/>
+    <event>
+      <int key="Unnamed: 0" value="14"/>
+      <string key="Activity" value="register request"/>
+      <int key="Costs" value="50"/>
+      <string key="Resource" value="Pete"/>
+      <string key="concept:name" value="register request"/>
+      <string key="org:resource" value="Pete"/>
+      <date key="time:timestamp" value="2008-12-09T08:20:01.527+01:00"/>
+    </event>
+  </trace>
+
+</log>
